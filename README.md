@@ -12,7 +12,7 @@ Este projeto é composto por um backend e um frontend para o registro de horas t
 
 1. Inicie o MySQL ou MariaDB na sua máquina.
 2. Acesse o terminal do MySQL com o seguinte comando:
-# Essa configuração do banco de dados foi feita para Linux
+### Essa configuração do banco de dados foi feita para Linux
     ```bash
     mysql -u root -p
     ```
